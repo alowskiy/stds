@@ -2,9 +2,6 @@
 
 namespace Router;
 
-use Controllers\Support\TokenService;
-use Controllers\Users\AuthController;
-use Controllers\Users\UserController;
 
 class Router
 {
